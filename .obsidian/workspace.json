@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "5bccd45297ed75d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aa53a951b3a5cf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d9dfe83f98ce7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bandit-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90cf22f7e47b1720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bandit-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a44ccb7664d49787",
+    "type": "split",
+    "children": [
+      {
+        "id": "30df6f0a1ded2643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "887994f141bd20e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7adfa92cf84a64f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c006d4795c920dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6cbe5981467d47a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a66e0341753bba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "099e09d0c15dfac8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bandit-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcb63666e356ba7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bandit-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dd3e854a3592366",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43381f02ef915971",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bandit-11.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90cf22f7e47b1720",
+  "lastOpenFiles": [
+    "bandit-10.md",
+    "bandit-11.md",
+    "Screenshot from 2024-02-12 02-56-08.png",
+    "Screenshot from 2024-02-12 02-54-46.png",
+    "bandit-9.md",
+    "Screenshot from 2024-02-12 02-52-31.png",
+    "bandit-8.md",
+    "Screenshot from 2024-02-12 02-48-12.png",
+    "bandit-7.md",
+    "Screenshot from 2024-02-12 02-44-59.png",
+    "bandit-6.md",
+    "bandit-5.md",
+    "Screenshot from 2024-02-12 01-17-06.png",
+    "Screenshot from 2024-02-12 01-16-03.png",
+    "Screenshot from 2024-02-12 01-07-24.png",
+    "Screenshot from 2024-02-12 01-11-47.png",
+    "bandit-4.md",
+    "Screenshot from 2024-02-12 00-59-39.png",
+    "bandit-3.md",
+    "bandit-2.md",
+    "bandit-1.md",
+    "Bandit-0.md",
+    "OverTheWire-Bandit"
+  ]
+}
