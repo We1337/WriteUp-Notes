@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59d9dfe83f98ce7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bandit-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "90cf22f7e47b1720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bandit-11.md",
+                "file": "VulnHub/20040224 ~ Badstore 1.2.3/BadStore 1.2.3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bandit-11.md",
+                "file": "VulnHub/20040224 ~ Badstore 1.2.3/BadStore 1.2.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bandit-11.md",
+                "file": "VulnHub/20040224 ~ Badstore 1.2.3/BadStore 1.2.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bandit-11.md"
+                "file": "VulnHub/20040224 ~ Badstore 1.2.3/BadStore 1.2.3.md"
               }
             }
           }
@@ -161,28 +148,48 @@
   },
   "active": "90cf22f7e47b1720",
   "lastOpenFiles": [
-    "bandit-10.md",
+    "Untitled.md",
+    "VulnHub/20040224 ~ Badstore 1.2.3/BadStore 1.2.3.md",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 062811.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 061417.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 060328.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 060230.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 055804.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 055340.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 055427.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 055020.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 054707.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3/Screenshot 2024-02-28 053657.png",
+    "VulnHub/20040224 ~ Badstore 1.2.3",
+    "VulnHub/New folder",
+    "VulnHub",
+    "New folder",
+    "Bandir-OvertheWire/LICENSE",
+    "Bandir-OvertheWire/bandit-11.md",
+    "Bandir-OvertheWire/bandit-10.md",
+    "Bandir-OvertheWire/bandit-9.md",
+    "Bandir-OvertheWire/bandit-8.md",
+    "Bandir-OvertheWire/bandit-7.md",
+    "Bandir-OvertheWire/bandit-6.md",
+    "Bandir-OvertheWire/bandit-5.md",
+    "Bandir-OvertheWire/bandit-4.md",
+    "Bandir-OvertheWire/bandit-3.md",
+    "Bandir-OvertheWire/bandit-2.md",
+    "Bandir-OvertheWire/bandit-1.md",
+    "Bandir-OvertheWire/Bandit-0.md",
+    "Bandir-OvertheWire",
+    "Bandit-0.md",
     "bandit-11.md",
-    "Screenshot from 2024-02-12 02-56-08.png",
-    "Screenshot from 2024-02-12 02-54-46.png",
+    "bandit-10.md",
     "bandit-9.md",
-    "Screenshot from 2024-02-12 02-52-31.png",
     "bandit-8.md",
-    "Screenshot from 2024-02-12 02-48-12.png",
     "bandit-7.md",
-    "Screenshot from 2024-02-12 02-44-59.png",
     "bandit-6.md",
     "bandit-5.md",
-    "Screenshot from 2024-02-12 01-17-06.png",
-    "Screenshot from 2024-02-12 01-16-03.png",
-    "Screenshot from 2024-02-12 01-07-24.png",
-    "Screenshot from 2024-02-12 01-11-47.png",
     "bandit-4.md",
-    "Screenshot from 2024-02-12 00-59-39.png",
     "bandit-3.md",
     "bandit-2.md",
     "bandit-1.md",
-    "Bandit-0.md",
     "OverTheWire-Bandit"
   ]
 }
